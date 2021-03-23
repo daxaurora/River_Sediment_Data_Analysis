@@ -14,3 +14,7 @@ The `Composite Notebook` folder contains a single notebook duplicating most of t
 Dataset processing and analysis by Laura Williams.
 
 NOTE: Laura Williams is not a Forest Service employee; data processing and analysis are not necessarily endorsed by the US Forest Service.
+
+
+-------------
+**Photo credit:** Idaho Travel Council
