@@ -11,4 +11,7 @@ Thumbs.db
 # Jupyter generated files #
 ###########################
 /.ipynb_checkpoints
-/Composite Notebook/.ipynb_checkpoints
+
+# testing dataset(s) #
+###########################
+/Data/sed_data_full_test.csv

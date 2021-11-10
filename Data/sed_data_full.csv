@@ -1,4 +1,4 @@
-Date_Collected_yyyy-mm-dd,Sample_Frequency_Hrs,Filter_Tar_(B)_grams_(g),Filter_Sed_(A)_grams_(g),Sediment_grams_(g),Sediment_Calc_grams_(g),Sediment_Check_(Good/Bad)(±5%),Volume_Milliliters_(ml),Sedload_mg/l,Sedload_Calc_mg/l,Sedload_Check_(Good/Bad)(±5%),Nephelometric_Turbidity_Units_(NTU)
+DateCollected,Sample_Freq_Hrs,Filter_Tar,Filter_Sed,Sed,Sed_Calc,Sed_Check,Vol_ml,Sedload,Sedload_Calc,Sedload_Check,NTU
 1983-04-01,,0.1104,0.1108,0.0004,0.0003999999999999976,True,339.0,1.1799,1.18,True,
 1983-04-02,,0.1119,0.1123,0.0004,0.0003999999999999976,True,337.0,1.1869,1.187,True,
 1983-04-03,,0.1118,0.1121,0.0003,0.0003000000000000086,True,338.0,0.8876,0.8876,True,
