@@ -1,4 +1,4 @@
-<meta property="og:image" content="img/Lochsa-clearwater_small.jpeg" />
+<meta property="og:image" content="/img/Lochsa-clearwater_small.jpeg" />
 
 # River Sediment Data Analysis
 
